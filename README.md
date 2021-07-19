@@ -57,3 +57,8 @@ I was hired as a **Systems Engineer** in **TCS Digital** and have been working a
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+<br>
+
+![Sabyasachi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sabya2301&theme=prussian&show_icons=true&count_private=true)
+<br />
