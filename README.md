@@ -60,5 +60,11 @@ I was hired as a **Systems Engineer** in **TCS Digital** and have been working a
 
 <br>
 
+[![Sabyasachi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sabya2301&theme=xcode)](https://git.io/ShreyaPrasad1209)
+<br>
+<br>
 ![Sabyasachi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sabya2301&theme=prussian&show_icons=true&count_private=true)
 <br />
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sabya2301&theme=prussian&hide_border=true)](https://git.io/streak-stats)
