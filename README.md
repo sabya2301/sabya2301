@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sabya2301/sabya2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 ## :wave: About Me
 
 <a href="https://www.instagram.com/_sabya23sachi_/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-128.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/sabyasachi-das-2a6229159/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👨‍🎓 Hey! I'm Sabyasachi(you can call me Sabya😛), a 23 year old software engineer at **TCS** based in Hyderabad, India.
+👨‍🎓 Hey! I'm Sabyasachi (you can call me Sabya😛), a 23 year old software engineer at **TCS** based in Hyderabad, India.
 
 I was hired as a **Systems Engineer** in **TCS Digital** and have been working as a **Big Data Engineer** for one of its developement projects at **LLoyds Banking Group(UK)**. I have been using **SparkSQL, Scala** and **Hive** as my tech stack in every day work under an **Agile** based wokflow.
 
@@ -39,9 +37,9 @@ I was hired as a **Systems Engineer** in **TCS Digital** and have been working a
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![C](https://img.shields.io/badge/-SparkSQL-333333?style=flat&logo=Spark)
-  ![C](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala)
+  ![C](https://img.shields.io/badge/--333333?style=flat&logo=C)
+  ![Spark](https://img.shields.io/badge/-SparkSQL-333333?style=flat&logo=Spark)
+  ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala)
   ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=hive)
 
 - 🌐 &nbsp;
