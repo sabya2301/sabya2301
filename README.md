@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ## :wave: About Me
 
-<a href="https://www.instagram.com/_sabya23sachi_/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-128.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/sabyasachi-das-2a6229159/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👨‍🎓 Hey! I'm Sabyasachi (you can call me Sabya😛), a 25 year old data engineer at **Exusia** working remotely in India. Prior to this, I worked in TCS Hyderabad.
+<a href="https://www.instagram.com/das_sabyaa/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-128.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/sabyasachi-das-2a6229159/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+👨‍🎓 Hey! I'm Sabyasachi (you can call me Sabya😛), a 25 year old data engineer at **Exusia** working remotely in India. Prior to this, I worked in TCS Hyderabad for client Lloyds Banking Group, UK. Feel free to drop a text if you'd like to connect over linkedin or insta.
 
 👩‍💻 Nowadays, I’m learning cloud(Azure) and distributed systems. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/user8392Cc/), [**CodeChef**](https://www.codechef.com/users/sabyasachi2301) and [**HackerRank.**](https://www.hackerrank.com/sabyasachi_das)
 
