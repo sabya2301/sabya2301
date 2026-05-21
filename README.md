@@ -124,18 +124,6 @@ Smart meal planning agent maintaining memory of previous meals for variety using
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabya2301&show_icons=true&theme=github_dark&count_private=true&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabya2301&layout=compact&theme=github_dark)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **Techno Main Salt Lake** | B.Tech in Electronics & Communication Engineering
@@ -146,8 +134,8 @@ Smart meal planning agent maintaining memory of previous meals for variety using
 ## 💡 Interests & Hobbies
 
 - 🔬 Exploring cutting-edge GenAI architectures and LLM fine-tuning
-- 📚 Avid reader of mythology and tech blogs
-- 🏃 LeetCode competitor (DSA enthusiast)
+- 📚 Avid reader of fiction, mythology and tech blogs
+- 🏃 LeetCode practitioner (DSA enthusiast)
 - 🌍 Building scalable solutions for real-world problems
 
 ---
